@@ -1,0 +1,113 @@
+{
+    "noticeTitle": "公示",
+    "noticeTheme": "依据《征信业管理条例》，个人查询本人信用报告每年前2次免费，每年查询3次及以上的，自2016年1月15日起，按照《国家发展改革委关于中国人民银行征信中心服务收费标准有关问题的批复》（发改价格[2016]54号），每次收取查询服务费10元。",
+    "noticeCore": "中国人民银行征信中心",
+    "noticeQuery": "开始查询",
+    "enterpriseTitle": "企业信息",
+    "invoice": "补开电子发票",
+    "enterpriseName": "企业名称：",
+    "enterpriseNameMessage": "北京信立合创信息技术有限公司",
+    "enterpriseOrgCode": "统一社会信用代码：",
+    "enterpriseOrgCodeMessage": "1112235645743423232366867",
+    "enterpriseLegalPerson": "法定代表人：",
+    "enterpriseLegalPersonMessage": "陈凌涛",
+    "enterpriseCapital": "注册资本：",
+    "enterpriseCapitalMessage": "111万元",
+    "enteerpriseFounded": "成立日期：",
+    "enteerpriseFoundedMessage": "2020-01-23",
+    "enteerpriseAddress": "住址：",
+    "enteerpriseAddressMessage": "北京朝阳区新源大街",
+    "backButton": "返回",
+    "confirmButton": "确认",
+    "readIdCard": "扫码授权",
+    "readIdCardMesssage": "请法人或代办人（已在电子营业执照app拥有电子营业执照）使用微信或支付宝打开“电子营业执照APP”扫描左侧二维码并完成授权",
+    "imgUrl": "error.png",
+    "result": "错误",
+    "overtime": "支付超时",
+    "payPromptMessage": "如已经付款完成，请重新查询或前往柜台办理退款",
+    "faceRecognition": "人脸识别",
+    "faceRecognitionMessage": "对比失败，请重试！",
+    "retryButton": "重试",
+    "reminder": "温馨提示",
+    "warningMessage": "您今年的个人信用报告查询次数已超过两次",
+    "chargingInformation": "本次查询需要收费：10元",
+    "queryRecord": "查询记录",
+    "queryOrgan": "查询机构",
+    "submitTime": "查询提交时间",
+    "tableData": [
+        {
+            "organ": "中国人民银行哈尔滨中心支行",
+            "date": "2020-01-20 16:20:10"
+        },
+        {
+            "organ": "中国人民银行哈尔滨中心支行",
+            "date": "2020-01-22 16:20:10"
+        },
+        {
+            "organ": "中国人民银行哈尔滨中心支行",
+            "date": "2020-02-20 16:20:10"
+        },
+        {
+            "organ": "中国人民银行哈尔滨中心支行",
+            "date": "2020-03-20 16:20:10"
+        }
+    ],
+    "investMoney": "投入纸币",
+    "time": "93",
+    "receivable": "应收（元）",
+    "receivableMessage": "10.00",
+    "received": "已收（元）",
+    "receivedMessage": "0.00",
+    "recollection": "还应投入（元）",
+    "recollectionMessage": "10.00",
+    "oneWarning": "本机只支持5元、10元纸币",
+    "twoWarning": "且不找零，一次只能平整投入一张纸币。",
+    "handleBusiness": "请选择需要办理的业务",
+    "enterprise": "企业查询",
+    "personal": "个人查询",
+    "mainTitle": "信息报告自助查询",
+    "payTime": "28",
+    "choosePaymentMethod": "请选择支付方式",
+    "paymentAmount": "本次查询需要支付",
+    "paymentAmountMessage": "10元",
+    "paymentMethod": "支付方式",
+    "scanningPayment": "请扫码支付",
+    "scanMessage": "请使用手机扫描二维码并完成支付",
+    "scanTime": "123",
+    "changePaymentMethod": "更换支付方式",
+    "loadingText": "拼命加载中",
+    "idPhoto": "证件照",
+    "personalInformation": "个人信息",
+    "personalReadIdTime": "26",
+    "phoneNumber": "手机号码",
+    "name": "姓名",
+    "nameMessage": "*雪鑫",
+    "idNumber": "证件号码",
+    "idNumberMessage": "1100****99929227",
+    "termofValidity": "有效期限",
+    "termofValidityStartMessage": "2020年3月11日",
+    "termofValidityEndMessage": "长期有效",
+    "photoComparison": "照片对比中，请稍后",
+    "photoReplacement": "拍照文案替换",
+    "pringButton": "打印",
+    "printingTips": "正在打印，请等待...",
+    "printingResult": "已打印完成",
+    "printingCompletionPrompt": "温馨提示：打印完成后请核对页数！",
+    "queryLayout": "请选择查询版式",
+    "readIdTime": "26",
+    "checkTitle": "检查中请稍后...",
+    "message": [
+        {
+            "url": "loading.gif",
+            "state": "检查信息报告自主查询更新中"
+        },
+        {
+            "url": "errorA.png",
+            "state": "检查信息报告自主查询系统更新失败"
+        },
+        {
+            "url": "su.png",
+            "state": "检查信息报告自主查询更新成功"
+        }
+    ]
+}

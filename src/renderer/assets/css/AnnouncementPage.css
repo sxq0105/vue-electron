@@ -1,0 +1,29 @@
+  p {
+	font-size: 29px;
+	font-weight: bold;
+	font-family: "宋体";
+  }
+  .ann-mainText {
+	padding-top: 60px;
+	text-indent: 2.2em;
+	font-family: "宋体";
+	text-align: justify;
+	font-size: 24px;
+	line-height: 40px;
+  }
+  .ann-title{
+	  text-align: center;
+  }
+  .ann-title img {
+	vertical-align: middle;
+	width: 64px;
+  }
+  strong {
+	font-size: 34px;
+	vertical-align: middle;
+	font-family: "宋体";
+  }
+  .ann-textTop {
+	margin-top: 30px;
+	text-align: right;
+  }

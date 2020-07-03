@@ -1,0 +1,31 @@
+body{
+  font-family: "宋体";
+  background:url(../Images/background.png) no-repeat;
+  margin: 0;
+  background-size: 100% auto;
+}
+.el-button {
+  padding: 10px 30px;
+  font-size:32px;
+}
+.button-left{
+  background-color:#fff !important;
+}
+.button-right{
+  background-color:#409EFF !important;
+  color:#fff !important;
+  border-color: #409EFF !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
